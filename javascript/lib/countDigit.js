@@ -22,3 +22,5 @@ class Count {
 }
 
 const count = new Count();
+
+module.exports = Count;
