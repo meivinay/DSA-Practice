@@ -1,1 +1,4 @@
 *.class
+node_modules
+.vscode
+.env
